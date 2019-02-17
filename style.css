@@ -1,0 +1,58 @@
+
+h1{
+    text-align: center;
+    
+}
+p{
+  font-weight: med;
+ font-size: 20px;
+
+}
+    .footer{
+    overflow: auto;
+    margin-top:30px;
+    fixed:bottom; 
+  } 
+  .card-img-top {
+    width: 100%;
+    height:auto;
+    object-fit: cover;
+  }
+  .navbar{
+    margin-top:0;
+  }
+  .card-body {
+    padding:35px;
+  }
+/*porfolio*/
+.container{
+    background:#cac7cc;
+}
+
+/*contact*/
+
+  html {
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  @include media-breakpoint-up(sm) {
+    html {
+      font-size: 1.2rem;
+    }
+    .card{
+      width:95%;
+    }
+  }
+  
+  @include media-breakpoint-up(md) {
+    html {
+      font-size: 1.4rem;
+    }
+  }
+  
+  @include media-breakpoint-up(lg) {
+    html {
+      font-size: 1.6rem;
+    }
+  }
+  

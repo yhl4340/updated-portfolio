@@ -7,6 +7,10 @@ h1, h2 {
     color:#4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
+img.card-top-img {
+    width:250px;
+    height: 250px;
+}
 header, .main, .footer{
     margin:10px;
 }
@@ -56,10 +60,6 @@ section.content{
     float:right;
     overflow: auto;
 }
-/* .content>article{
-    float:right;
-    margin-top: -100px;
-} */
 a .btn.btn-primary {
     margin:0 auto;
     text-align: center;
@@ -74,18 +74,10 @@ a .btn.btn-primary {
     text-align: center;
     border-top: 8px solid #4aaaa5;
 
-}/*css for porfolio*/
-/* section.content2{
-    width:30%;
-    background: #ffffff;
-    border: #dddddd;
-    z-index: 3;
-    height: 65%;
-    position: relative;
-    margin-left: 460px;
-    margin-top:70px;
-    padding:20px 20px;
-} */
+}
+
+/*css for porfolio*/
+
 .pic{
     float:left;
     overflow: auto;
@@ -129,17 +121,6 @@ i.fab.fa-github,
 i.fas {
  color:green;
 }
-/*css for contact*/
-/* section.content1{
-    width:40%;
-    background: #ffffff;
-    border: #dddddd;
-    z-index: 3;
-    position: relative;
-    margin-left: 400px;
-    margin-top:70px;
-    padding:20px 20px;
-} */
 h2, form>p, form>input, form>textarea {
     margin-left:10px;
     margin-top:3px;

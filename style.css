@@ -1,26 +1,48 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------ */
+.jumbotron {
+  background-image: url('assets/cover.jpg');
+}
 h1{
     text-align: center;
-    
+    color:white;
 }
 p{
   font-weight: med;
- font-size: 20px;
-
+  font-size: 20px;
 }
-    .footer{
+div .card-body{
+  text-indent:40px;
+}
+
+.footer{
     overflow: auto;
     margin-top:30px;
     fixed:bottom; 
-  } 
+} 
   .card-img-top {
     width: 100%;
     height:auto;
     object-fit: cover;
-  }
+}
   .navbar{
-    margin-top:0;
+    margin-top:-20px;
   }
+  
   .card-body {
     padding:35px;
   }

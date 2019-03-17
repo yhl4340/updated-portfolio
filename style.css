@@ -1,58 +1,80 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* ------------ */
 .jumbotron {
-  background-image: url('assets/cover.jpg');
+  background-image: url('assets/color.jpg');
+  height:750px;
+  text-align: center;
 }
 h1{
     text-align: center;
     color:white;
 }
-p{
-  font-weight: med;
-  font-size: 20px;
+section {
+  background-color:none;
 }
-div .card-body{
-  text-indent:40px;
+.display-3{
+  text-align: center;
+  margin-top:150px;
+  font-size:86px;
+}
+.lead{
+  font-size:34px;
+  color:white;
+}
+small{
+  color:white;
+}
+.rounded-pill {
+  border-radius: 5rem;
+}
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.navbar-custom .navbar-brand {
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
 }
 
-.footer{
-    overflow: auto;
-    margin-top:30px;
-    fixed:bottom; 
-} 
-  .card-img-top {
-    width: 100%;
-    height:auto;
-    object-fit: cover;
+.navbar-custom .navbar-nav .nav-item .nav-link {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
 }
-  .navbar{
-    margin-top:-20px;
-  }
-  
-  .card-body {
-    padding:35px;
-  }
+
+p{
+  font-weight: med;
+  font-size: 18px;
+}
+#sticky-footer {
+  flex-shrink: none;
+}
+
 /*porfolio*/
 .container{
     background:#cac7cc;
 }
 
 /*contact*/
-
+ body{
+  background-image: url('assets/color.jpg');
+ }
+ .contact-section{
+   margin-top:300px;
+ }
+.card.py-4{
+  border-radius: 18px;
+}
+#sticky-footer-2{
+  flex-shrink: none;
+  margin-top:250px;
+  width:100%;
+}
   html {
     font-size: 1rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

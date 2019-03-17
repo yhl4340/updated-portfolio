@@ -61,9 +61,9 @@ p{
 }
 
 /*contact*/
- body{
+ /* body{
   background-image: url('assets/color.jpg');
- }
+ } */
  .contact-section{
    margin-top:300px;
  }
@@ -72,7 +72,7 @@ p{
 }
 #sticky-footer-2{
   flex-shrink: none;
-  margin-top:250px;
+  margin-top:155px;
   width:100%;
 }
   html {

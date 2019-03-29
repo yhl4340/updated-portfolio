@@ -6,7 +6,7 @@
 ### update
 --added Liri homework. image taken from https://twitter.com/liribot2018
 
-#Challenges:
+# Challenges:
 --CSS. Trying to make sure that everything works continues to be an issue. Watching tutorials on Youtube somestimes help resolve those issues.
 --Resume. Not quite sure how to present what I am doing now in my existing resume that will showcase what I have learned and done so far.
 --linkedIn- needs lot of work since i just created the account yesterday

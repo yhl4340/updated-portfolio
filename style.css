@@ -6,6 +6,9 @@
   height:750px;
   text-align: center;
 }
+body {
+    font-family: 'Varela Round', sans-serif; 
+}
 h1{
     text-align: center;
     color:white;
@@ -77,7 +80,7 @@ p{
 }
   html {
     font-size: 1rem;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Varela Round', sans-serif;
   }
   @include media-breakpoint-up(sm) {
     html {

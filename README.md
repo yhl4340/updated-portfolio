@@ -1,10 +1,11 @@
 # updated-portfolio2-16-2019
---Revised the content in previous bootstrap homework
---Added homeworks and project 1 to the profolio page.
---Added email infor and contact number to the contact page.
---Added linkd to github, linkedin, and to resume. 
+-- Revised the content in previous bootstrap homework
+-- Added homeworks and project 1 and 2 to the profolio page.
+-- Added email infor and contact number to the contact page.
+-- Added linkd to github, linkedin, and to resume. 
 ### update
---added Liri homework. image taken from https://twitter.com/liribot2018
+-- added Liri homework. image taken from https://twitter.com/liribot2018
+-- reformatted portfolio
 
 # Challenges:
 --CSS. Trying to make sure that everything works continues to be an issue. Watching tutorials on Youtube somestimes help resolve those issues.

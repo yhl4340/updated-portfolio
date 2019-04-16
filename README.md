@@ -1,4 +1,4 @@
-# updated-portfolio2-16-2019
+# updated-portfolio
 -- Revised the content in previous bootstrap homework
 -- Added homeworks and project 1 and 2 to the profolio page.
 -- Added email infor and contact number to the contact page.
